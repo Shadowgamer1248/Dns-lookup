@@ -91,14 +91,3 @@ while True:
         print(f"\n{Fore.RED} INVALID SYNTEX ")
         time.sleep(2)
         break
-
-
-    
-
-
-
-
-
-
-
-
